@@ -1,2 +1,2 @@
-uk.ac.open.ouanywhere.crypto
-============================
+ou-plugin-test
+==============
