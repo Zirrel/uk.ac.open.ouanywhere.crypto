@@ -1,4 +1,3 @@
-cordova.define("uk.ac.open.ouanywhere.crypto", function(require, exports, module) {
 
 	var argscheck = require('cordova/argscheck'),
 	    channel = require('cordova/channel'),
@@ -17,5 +16,3 @@ cordova.define("uk.ac.open.ouanywhere.crypto", function(require, exports, module
 	};
 	
 	module.exports = new Crypto();
-
-}
