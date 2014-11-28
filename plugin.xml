@@ -20,7 +20,7 @@
     <platform name="android">
         <config-file target="res/xml/config.xml" parent="/*">
             <feature name="Crypto">
-                <param name="android-package" value="uk.ac.open.ouanywhere.crypto"/>
+                <param name="android-package" value="uk.ac.open.ouanywhere.crypto.Crypto"/>
             </feature>
         </config-file>
         <source-file src="src/android/Crypto.java" target-dir="src/uk/ac/open/ouanywhere/crypto" />
